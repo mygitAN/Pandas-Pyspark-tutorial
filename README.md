@@ -1,2 +1,2 @@
 # Pandas-Pyspark-tutorial
-Use of Pyspark API which is useful for large data sets
+Minor tutorial on Pyspark API which is useful for large data sets
